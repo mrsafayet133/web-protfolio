@@ -1,0 +1,19 @@
+body{   
+    font-family: 'Lora', serif;
+}
+h1{ 
+    font-size: 40px;
+}
+.name-hight{
+    color: royalblue;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin: 3%;
+    padding: 2%;
+
+}
+.half-width img{
+    width: 50%;
+}
